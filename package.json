@@ -1,0 +1,1 @@
+{"description":"One-line review of the most boring everyday object (the TV remote) for a make.fun bounty","license":"MIT","main":"main.ts","name":"boring-object-remote","private":true,"scripts":{"start":"node --experimental-strip-types main.ts"},"type":"module","version":"1.0.0"}
